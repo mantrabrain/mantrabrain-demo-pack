@@ -1,0 +1,107 @@
+{
+  "name": "Mantranews",
+  "slug": "mantranews",
+  "version": "1.0.0",
+  "homepage": "https://mantrabrain.com/downloads/mantranews-wordpress-news-theme/",
+  "categories": {
+    "all": "All",
+    "blog": "Blog",
+    "news": "News",
+    "others": "Others"
+  },
+  "pagebuilders": {
+    "default": "Default",
+    "elementor": "Elementor"
+  },
+  "demos": {
+    "mantranews-free": {
+      "title": "Mantranews",
+      "preview": "https://demo.mantrabrain.com/mantranews-default/",
+      "description": "This is the default Mantranews demo perfect for your online magazine.",
+      "template": [
+        "mantranews",
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "Mantranews",
+        "page_on_front":"Home Page"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_vertical_widget": {
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "General"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu"
+        }
+      }
+    },
+    "mantranews-pro": {
+      "isPro": true,
+      "title": "Mantranews Pro",
+      "preview": "https://demo.mantrabrain.com/mantranews-pro/",
+      "description": "The premium version of the default Mantranews demo for your online magazine.",
+      "template": [
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "Mantranews Pro",
+        "page_on_front":"Home Page"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_vertical_widget": {
+              "3": {
+                "category": "Fashion"
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "General"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "top-header": "Top Header Menu",
+          "footer": "Footer Menu"
+        }
+      }
+    }
+
+  }
+}
