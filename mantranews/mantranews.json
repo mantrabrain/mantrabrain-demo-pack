@@ -101,6 +101,51 @@
           "footer": "Footer Menu"
         }
       }
+    },
+    "mantranews-hero": {
+      "isPro": true,
+      "title": "Mantranews Hero",
+      "preview": "https://demo.mantrabrain.com/mantranews-hero",
+      "description": "The premium version of the default Mantranews demo for your online magazine.",
+      "template": [
+        "mantranews-pro"
+      ],
+      "category": [
+        "all",
+        "news",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "Mantranews Hero",
+        "page_on_front":"Home Page"
+      },
+      "widgets_data_update": {
+        "dropdown_categories": {
+          "category": {
+            "mantranews_featured_posts_vertical_widget": {
+              "3": {
+                "category": "Technology"
+              },
+              "4": {
+                "category": "Sports"
+              },
+              "5": {
+                "category": "News"
+              }
+            }
+          }
+        }
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "top-header": "Top Header Menu",
+          "footer": "Footer Menu"
+        }
+      }
     }
 
   }
