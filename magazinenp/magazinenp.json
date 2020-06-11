@@ -1,0 +1,75 @@
+{
+  "name": "MagazineNP",
+  "slug": "magazinenp",
+  "version": "1.0.4",
+  "homepage": "https://mantrabrain.com/downloads/magazinenp-wordpress-theme/",
+  "categories": {
+    "all": "All",
+    "magazine": "Magazine",
+    "blog": "Blog",
+    "others": "Others"
+  },
+  "pagebuilders": {
+    "default": "Default",
+    "elementor": "Elementor"
+  },
+  "demos": {
+    "magazinenp-free": {
+      "title": "MagazineNP",
+      "preview": "https://demo.mantrabrain.com/magazinenp/",
+      "description": "Perfect demo for your magazine site.",
+      "template": [
+        "magazinenp",
+        "magazinenp-pro"
+      ],
+      "category": [
+        "all",
+        "magazine",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "MagazineNP"
+      },
+      "widgets_data_update": {
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "top-bar-nav": "Top Bar Menu"
+        }
+      }
+    },
+    "magazinenp-pro": {
+      "isPro": true,
+      "title": "MagazineNP Pro",
+      "preview": "https://demo.mantrabrain.com/magazinenp-pro",
+      "description": "The premium version of the default magazinenp demo for your magazine site.",
+      "template": [
+        "magazinenp"
+      ],
+      "category": [
+        "all",
+        "magazine",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "MagazineNP Pro",
+        "page_on_front": ""
+      },
+      "widgets_data_update": {
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "top-bar-nav": "Top Bar Menu"
+        }
+      }
+    }
+  }
+}
