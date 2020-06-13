@@ -42,6 +42,34 @@
         }
       }
     },
+    "magazinenp-gutentor": {
+      "title": "Gutenberg",
+      "preview": "https://demo.mantrabrain.com/magazinenp-gutentor/",
+      "description": "Perfect demo for your magazine site.",
+      "template": [
+        "magazinenp",
+        "magazinenp-pro"
+      ],
+      "category": [
+        "all",
+        "magazine",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default"
+      ],
+      "core_options": {
+        "blogname": "MagazineNP"
+      },
+      "widgets_data_update": {
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "top-bar-nav": "Top Bar Menu"
+        }
+      }
+    },
     "magazinenp-pro": {
       "isPro": true,
       "title": "MagazineNP Pro",
