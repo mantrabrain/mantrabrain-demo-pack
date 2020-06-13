@@ -58,6 +58,11 @@
       "pagebuilder": [
         "default"
       ],
+      "plugins_list": {
+        "gutentor": {
+          "name": "Gutentor",
+          "slug": "gutentor/gutentor.php"
+        },
       "core_options": {
         "blogname": "MagazineNP"
       },
