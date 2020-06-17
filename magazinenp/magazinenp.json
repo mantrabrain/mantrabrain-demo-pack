@@ -60,8 +60,8 @@
       ],
       "plugins_list": {
         "everest-forms": {
-          "name": "Everest Forms",
-          "slug": "everest-forms/everest-forms.php"
+          "name": "Gutentor",
+          "slug": "gutentor/gutentor.php"
         }
       },
       "core_options": {
