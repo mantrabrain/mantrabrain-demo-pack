@@ -65,7 +65,9 @@
         }
       },
       "core_options": {
-        "blogname": "MagazineNP"
+        "blogname": "MagazineNP",
+        "page_on_front":"Gutentor Home"
+
       },
       "widgets_data_update": {
       },
