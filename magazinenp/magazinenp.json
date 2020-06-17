@@ -59,7 +59,7 @@
         "default"
       ],
       "plugins_list": {
-        "everest-forms": {
+        "gutentor": {
           "name": "Gutentor",
           "slug": "gutentor/gutentor.php"
         }
