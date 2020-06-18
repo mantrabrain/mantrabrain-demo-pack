@@ -11,7 +11,8 @@
   },
   "pagebuilders": {
     "default": "Default",
-    "elementor": "Elementor"
+    "elementor": "Elementor",
+    "gutentor": "Gutentor"
   },
   "demos": {
     "magazinenp-free": {
@@ -28,7 +29,9 @@
         "blog"
       ],
       "pagebuilder": [
-        "default"
+        "default",
+        "elementor",
+        "gutentor"
       ],
       "core_options": {
         "blogname": "MagazineNP"
@@ -56,7 +59,9 @@
         "blog"
       ],
       "pagebuilder": [
-        "default"
+        "default",
+        "elementor",
+        "gutentor"
       ],
       "plugins_list": {
         "gutentor": {
@@ -92,7 +97,9 @@
         "blog"
       ],
       "pagebuilder": [
-        "default"
+        "default",
+        "elementor",
+        "gutentor"
       ],
       "core_options": {
         "blogname": "MagazineNP Pro",
