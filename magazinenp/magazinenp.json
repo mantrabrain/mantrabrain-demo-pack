@@ -45,6 +45,36 @@
         }
       }
     },
+    "magazinenp-rtl": {
+      "title": "MagazineNP RTL",
+      "preview": "https://demo.mantrabrain.com/magazinenp-rtl/",
+      "description": "Perfect demo for your magazine RTL site.",
+      "template": [
+        "magazinenp",
+        "magazinenp-pro"
+      ],
+      "category": [
+        "all",
+        "magazine",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default",
+        "elementor",
+        "gutentor"
+      ],
+      "core_options": {
+        "blogname": "MagazineNP RTL"
+      },
+      "widgets_data_update": {
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "top-bar-nav": "Top Bar Menu"
+        }
+      }
+    },
     "magazinenp-gutentor": {
       "title": "Gutenberg",
       "preview": "https://demo.mantrabrain.com/magazinenp-gutentor/",
