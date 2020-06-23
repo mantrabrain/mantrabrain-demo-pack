@@ -45,6 +45,37 @@
         }
       }
     },
+    "magazinenp-pro": {
+      "isPro": true,
+      "title": "MagazineNP Pro",
+      "preview": "https://demo.mantrabrain.com/magazinenp-pro",
+      "description": "The premium version of the default magazinenp demo for your magazine site.",
+      "template": [
+        "magazinenp"
+      ],
+      "category": [
+        "all",
+        "magazine",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default",
+        "elementor",
+        "gutentor"
+      ],
+      "core_options": {
+        "blogname": "MagazineNP Pro",
+        "page_on_front": ""
+      },
+      "widgets_data_update": {
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "top-bar-nav": "Top Bar Menu"
+        }
+      }
+    },
     "magazinenp-rtl": {
       "title": "MagazineNP RTL",
       "preview": "https://demo.mantrabrain.com/magazinenp-rtl/",
@@ -103,37 +134,6 @@
         "blogname": "MagazineNP",
         "page_on_front":"Gutentor Home"
 
-      },
-      "widgets_data_update": {
-      },
-      "customizer_data_update": {
-        "nav_menu_locations": {
-          "primary": "Main Menu",
-          "top-bar-nav": "Top Bar Menu"
-        }
-      }
-    },
-    "magazinenp-pro": {
-      "isPro": true,
-      "title": "MagazineNP Pro",
-      "preview": "https://demo.mantrabrain.com/magazinenp-pro",
-      "description": "The premium version of the default magazinenp demo for your magazine site.",
-      "template": [
-        "magazinenp"
-      ],
-      "category": [
-        "all",
-        "magazine",
-        "blog"
-      ],
-      "pagebuilder": [
-        "default",
-        "elementor",
-        "gutentor"
-      ],
-      "core_options": {
-        "blogname": "MagazineNP Pro",
-        "page_on_front": ""
       },
       "widgets_data_update": {
       },
