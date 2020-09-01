@@ -32,7 +32,7 @@
 	<pubDate>Thu, 11 Jun 2020 06:59:53 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.mantrabrain.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.mantrabrain.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.mantrabrain.com/magazinenp</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[mantrabrain_demo]]></wp:author_login><wp:author_email><![CDATA[mantrabrain@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Demo User]]></wp:author_display_name><wp:author_first_name><![CDATA[Mantra]]></wp:author_first_name><wp:author_last_name><![CDATA[Brain]]></wp:author_last_name></wp:author>
@@ -1082,7 +1082,7 @@
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
 		<guid isPermaLink="false">https://demo.mantrabrain.com/magazinenp/?p=1</guid>
 		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
+		<content:encoded><![CDATA[Welcome to <a href="https://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-28 17:21:47]]></wp:post_date>

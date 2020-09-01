@@ -32,7 +32,7 @@
 	<pubDate>Sun, 05 Jul 2020 01:55:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://demo.mantrabrain.com/</wp:base_site_url>
+	<wp:base_site_url>https://demo.mantrabrain.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.mantrabrain.com/magazinenp-gutentor-2</wp:base_blog_url>
 
 		<wp:author><wp:author_id>4</wp:author_id><wp:author_login><![CDATA[magazinenp]]></wp:author_login><wp:author_email><![CDATA[me.umeshuser@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[magazinenp]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
@@ -2102,7 +2102,7 @@
 		<dc:creator><![CDATA[magazinenp]]></dc:creator>
 		<guid isPermaLink="false">https://demo.mantrabrain.com/magazinenp-gutentor-2/?p=1</guid>
 		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
+		<content:encoded><![CDATA[Welcome to <a href="https://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-23 03:20:36]]></wp:post_date>
@@ -2687,7 +2687,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<dc:creator><![CDATA[magazinenp]]></dc:creator>
 		<guid isPermaLink="false">https://demo.mantrabrain.com/magazinenp/?p=1</guid>
 		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
+		<content:encoded><![CDATA[Welcome to <a href="https://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2020-04-28 17:21:47]]></wp:post_date>
@@ -2762,7 +2762,7 @@ Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gr
 		<dc:creator><![CDATA[magazinenp]]></dc:creator>
 		<guid isPermaLink="false">https://demo.mantrabrain.com/magazinenp-gutentor/?p=1</guid>
 		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
+		<content:encoded><![CDATA[Welcome to <a href="https://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>103</wp:post_id>
 		<wp:post_date><![CDATA[2020-06-11 09:23:50]]></wp:post_date>
