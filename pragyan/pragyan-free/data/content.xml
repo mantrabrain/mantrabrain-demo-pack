@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-09-23 07:17" -->
+	<!-- generator="WordPress/5.5.1" created="2020-09-23 13:09" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Pragyan</title>
 	<link>https://demo.mantrabrain.com/pragyan</link>
 	<description>WordPress Education Theme</description>
-	<pubDate>Wed, 23 Sep 2020 07:17:51 +0000</pubDate>
+	<pubDate>Wed, 23 Sep 2020 13:09:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.mantrabrain.com/</wp:base_site_url>
@@ -1286,116 +1286,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sikshya Registration</title>
-		<link>https://demo.mantrabrain.com/pragyan/sikshya-registration/</link>
-		<pubDate>Tue, 22 Sep 2020 13:15:43 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/sikshya-registration/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[sikshya_registration]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 13:15:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 13:15:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sikshya-registration]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Sikshya Account</title>
-		<link>https://demo.mantrabrain.com/pragyan/sikshya-account/</link>
-		<pubDate>Tue, 22 Sep 2020 13:15:43 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/sikshya-account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[sikshya_account]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 13:15:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 13:15:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sikshya-account]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Sikshya Login</title>
-		<link>https://demo.mantrabrain.com/pragyan/sikshya-login/</link>
-		<pubDate>Tue, 22 Sep 2020 13:15:43 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/sikshya-login/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[sikshya_login]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 13:15:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 13:15:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sikshya-login]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Sikshya Cart</title>
-		<link>https://demo.mantrabrain.com/pragyan/sikshya-cart/</link>
-		<pubDate>Tue, 22 Sep 2020 13:15:43 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/sikshya-cart/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[sikshya_cart]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 13:15:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 13:15:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sikshya-cart]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title>Sikshya Checkout</title>
-		<link>https://demo.mantrabrain.com/pragyan/sikshya-checkout/</link>
-		<pubDate>Tue, 22 Sep 2020 13:15:43 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/sikshya-checkout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[sikshya_checkout]]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 13:15:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 13:15:43]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sikshya-checkout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title>Digital &amp; Affiliate Marketing</title>
 		<link>https://demo.mantrabrain.com/pragyan/courses/digital-affiliate-marketing/</link>
 		<pubDate>Tue, 22 Sep 2020 16:12:16 +0000</pubDate>
@@ -1535,6 +1425,96 @@ You’ll know why UX is so important to both users and businesses, what <strong
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Writing Email Checklist</title>
+		<link>https://demo.mantrabrain.com/pragyan/courses/digital-affiliate-marketing/lessons/writing-email-checklist/</link>
+		<pubDate>Tue, 22 Sep 2020 16:15:44 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/writing-email-checklist/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>41</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:15:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:15:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[writing-email-checklist]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Web email hunting</title>
+		<link>https://demo.mantrabrain.com/pragyan/courses/digital-affiliate-marketing/lessons/web-email-hunting/</link>
+		<pubDate>Tue, 22 Sep 2020 16:16:02 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/web-email-hunting/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:16:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:16:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[web-email-hunting]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Welcome</title>
+		<link>https://demo.mantrabrain.com/pragyan/courses/digital-affiliate-marketing/lessons/welcome/</link>
+		<pubDate>Tue, 22 Sep 2020 16:16:14 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/welcome/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>43</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:16:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:16:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[welcome]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[38]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>PHP Tutorials for Beginners</title>
 		<link>https://demo.mantrabrain.com/pragyan/courses/php-tutorials-for-beginners/</link>
 		<pubDate>Tue, 22 Sep 2020 16:39:50 +0000</pubDate>
@@ -1628,6 +1608,66 @@ PHP started out as a small open source project that evolved as more and more peo
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[sikshya_course_active_tab]]></wp:meta_key>
 		<wp:meta_value><![CDATA[media]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>MVC Pattern &amp; Idea</title>
+		<link>https://demo.mantrabrain.com/pragyan/courses/php-tutorials-for-beginners/lessons/mvc-pattern-idea/</link>
+		<pubDate>Tue, 22 Sep 2020 16:36:55 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/mvc-pattern-idea/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:36:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:36:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mvc-pattern-idea]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>MVC Workflow on real time project</title>
+		<link>https://demo.mantrabrain.com/pragyan/courses/php-tutorials-for-beginners/lessons/mvc-workflow-on-real-time-project/</link>
+		<pubDate>Tue, 22 Sep 2020 16:37:10 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/mvc-workflow-on-real-time-project/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:37:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:37:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mvc-workflow-on-real-time-project]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2109,153 +2149,133 @@ PHP started out as a small open source project that evolved as more and more peo
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Writing Email Checklist</title>
-		<link>https://demo.mantrabrain.com/pragyan/courses/digital-affiliate-marketing/lessons/writing-email-checklist/</link>
-		<pubDate>Tue, 22 Sep 2020 16:15:44 +0000</pubDate>
+		<title>Introduction &amp; Overview</title>
+		<link>https://demo.mantrabrain.com/pragyan/?sik_sections=introduction-overview</link>
+		<pubDate>Tue, 22 Sep 2020 16:31:01 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/writing-email-checklist/</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=introduction-overview</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>41</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 16:15:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 16:15:44]]></wp:post_date_gmt>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:31:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:31:01]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[writing-email-checklist]]></wp:post_name>
+		<wp:post_name><![CDATA[introduction-overview]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[40]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Web email hunting</title>
-		<link>https://demo.mantrabrain.com/pragyan/courses/digital-affiliate-marketing/lessons/web-email-hunting/</link>
-		<pubDate>Tue, 22 Sep 2020 16:16:02 +0000</pubDate>
+		<title>PHP Basics</title>
+		<link>https://demo.mantrabrain.com/pragyan/?sik_sections=php-basics</link>
+		<pubDate>Tue, 22 Sep 2020 16:32:07 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/web-email-hunting/</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=php-basics</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 16:16:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 16:16:02]]></wp:post_date_gmt>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:32:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:07]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[web-email-hunting]]></wp:post_name>
+		<wp:post_name><![CDATA[php-basics]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[39]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Welcome</title>
-		<link>https://demo.mantrabrain.com/pragyan/courses/digital-affiliate-marketing/lessons/welcome/</link>
-		<pubDate>Tue, 22 Sep 2020 16:16:14 +0000</pubDate>
+		<title>Procedural PHP</title>
+		<link>https://demo.mantrabrain.com/pragyan/?sik_sections=procedural-php</link>
+		<pubDate>Tue, 22 Sep 2020 16:32:25 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/welcome/</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=procedural-php</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>43</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 16:16:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 16:16:14]]></wp:post_date_gmt>
+		<wp:post_id>49</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:32:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:25]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[welcome]]></wp:post_name>
+		<wp:post_name><![CDATA[procedural-php]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[38]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>MVC Pattern &amp; Idea</title>
-		<link>https://demo.mantrabrain.com/pragyan/courses/php-tutorials-for-beginners/lessons/mvc-pattern-idea/</link>
-		<pubDate>Tue, 22 Sep 2020 16:36:55 +0000</pubDate>
+		<title>Object Oriented Programming in PHP</title>
+		<link>https://demo.mantrabrain.com/pragyan/?sik_sections=object-oriented-programming-in-php</link>
+		<pubDate>Tue, 22 Sep 2020 16:32:34 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/mvc-pattern-idea/</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=object-oriented-programming-in-php</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>52</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 16:36:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 16:36:55]]></wp:post_date_gmt>
+		<wp:post_id>50</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:32:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:34]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mvc-pattern-idea]]></wp:post_name>
+		<wp:post_name><![CDATA[object-oriented-programming-in-php]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>MVC Workflow on real time project</title>
-		<link>https://demo.mantrabrain.com/pragyan/courses/php-tutorials-for-beginners/lessons/mvc-workflow-on-real-time-project/</link>
-		<pubDate>Tue, 22 Sep 2020 16:37:10 +0000</pubDate>
+		<title>MVC ( Model, View, Controller) in PHP</title>
+		<link>https://demo.mantrabrain.com/pragyan/?sik_sections=mvc-model-view-controller-in-php</link>
+		<pubDate>Tue, 22 Sep 2020 16:32:48 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/mvc-workflow-on-real-time-project/</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=mvc-model-view-controller-in-php</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>53</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 16:37:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 16:37:10]]></wp:post_date_gmt>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:32:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:48]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mvc-workflow-on-real-time-project]]></wp:post_name>
+		<wp:post_name><![CDATA[mvc-model-view-controller-in-php]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2616,136 +2636,6 @@ PHP started out as a small open source project that evolved as more and more peo
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Introduction &amp; Overview</title>
-		<link>https://demo.mantrabrain.com/pragyan/?sik_sections=introduction-overview</link>
-		<pubDate>Tue, 22 Sep 2020 16:31:01 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=introduction-overview</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 16:31:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 16:31:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[introduction-overview]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>PHP Basics</title>
-		<link>https://demo.mantrabrain.com/pragyan/?sik_sections=php-basics</link>
-		<pubDate>Tue, 22 Sep 2020 16:32:07 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=php-basics</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>48</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 16:32:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[php-basics]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Procedural PHP</title>
-		<link>https://demo.mantrabrain.com/pragyan/?sik_sections=procedural-php</link>
-		<pubDate>Tue, 22 Sep 2020 16:32:25 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=procedural-php</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>49</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 16:32:25]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:25]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[procedural-php]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Object Oriented Programming in PHP</title>
-		<link>https://demo.mantrabrain.com/pragyan/?sik_sections=object-oriented-programming-in-php</link>
-		<pubDate>Tue, 22 Sep 2020 16:32:34 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=object-oriented-programming-in-php</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>50</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 16:32:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:34]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[object-oriented-programming-in-php]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>MVC ( Model, View, Controller) in PHP</title>
-		<link>https://demo.mantrabrain.com/pragyan/?sik_sections=mvc-model-view-controller-in-php</link>
-		<pubDate>Tue, 22 Sep 2020 16:32:48 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=mvc-model-view-controller-in-php</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>51</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-22 16:32:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:48]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mvc-model-view-controller-in-php]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
