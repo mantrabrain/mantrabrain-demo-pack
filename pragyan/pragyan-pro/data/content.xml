@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-09-11 15:54" -->
+	<!-- generator="WordPress/5.5.1" created="2020-09-23 09:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,143 +26,150 @@
 >
 
 <channel>
-	<title>Pragyan</title>
-	<link>https://demo.mantrabrain.com/pragyan</link>
-	<description>WordPress Education Theme</description>
-	<pubDate>Fri, 11 Sep 2020 15:54:31 +0000</pubDate>
+	<title>Pragyan Pro</title>
+	<link>https://demo.mantrabrain.com/pragyan-pro</link>
+	<description>Premium version of Pragyan Theme</description>
+	<pubDate>Wed, 23 Sep 2020 09:19:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.mantrabrain.com/</wp:base_site_url>
-	<wp:base_blog_url>https://demo.mantrabrain.com/pragyan</wp:base_blog_url>
+	<wp:base_blog_url>https://demo.mantrabrain.com/pragyan-pro</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[mantrabrain_demo]]></wp:author_login><wp:author_email><![CDATA[mantrabrain@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[mantrabrain_demo]]></wp:author_display_name><wp:author_first_name><![CDATA[Mantra]]></wp:author_first_name><wp:author_last_name><![CDATA[Brain]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[mantrabrain_demo]]></wp:author_login><wp:author_email><![CDATA[mantrabrain@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Mantra Brain]]></wp:author_display_name><wp:author_first_name><![CDATA[Mantra]]></wp:author_first_name><wp:author_last_name><![CDATA[Brain]]></wp:author_last_name></wp:author>
 
+		<wp:category>
+		<wp:term_id>2</wp:term_id>
+		<wp:category_nicename><![CDATA[covid]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Covid]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>3</wp:term_id>
+		<wp:category_nicename><![CDATA[education]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Education]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>4</wp:term_id>
+		<wp:category_nicename><![CDATA[news]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[News]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>5</wp:term_id>
+		<wp:category_nicename><![CDATA[trend]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Trend]]></wp:cat_name>
+	</wp:category>
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-				<wp:term>
-		<wp:term_id>2</wp:term_id>
-		<wp:term_taxonomy><![CDATA[nav_menu]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[main-menu]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Main Menu]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>1</wp:term_id>
-		<wp:term_taxonomy><![CDATA[category]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[uncategorized]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
-	</wp:term>
-			<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
+			<wp:tag>
+		<wp:term_id>6</wp:term_id>
+		<wp:tag_slug><![CDATA[covid19]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[covid19]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>7</wp:term_id>
+		<wp:tag_slug><![CDATA[economy]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[economy]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>8</wp:term_id>
+		<wp:tag_slug><![CDATA[education]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[education]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>9</wp:term_id>
+		<wp:tag_slug><![CDATA[pandemic]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[pandemic]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>10</wp:term_id>
+		<wp:tag_slug><![CDATA[world]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[world]]></wp:tag_name>
+	</wp:tag>
+				<wp:term><wp:term_id>11</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name>
 </wp:term>
 
 	<generator>https://wordpress.org/?v=5.5.1</generator>
 
 		<item>
-		<title>Hello world!</title>
-		<link>https://demo.mantrabrain.com/pragyan/hello-world/</link>
-		<pubDate>Fri, 04 Sep 2020 15:28:18 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-04 15:28:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-04 15:28:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-09-04 15:28:18]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-09-04 15:28:18]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title>Sample Page</title>
-		<link>https://demo.mantrabrain.com/pragyan/sample-page/</link>
-		<pubDate>Fri, 04 Sep 2020 15:28:18 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.mantrabrain.com/pragyan/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-04 15:28:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-04 15:28:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Home</title>
-		<link>https://demo.mantrabrain.com/pragyan/home/</link>
-		<pubDate>Fri, 11 Sep 2020 15:43:01 +0000</pubDate>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/home/</link>
+		<pubDate>Wed, 23 Sep 2020 07:53:46 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=6</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/2020/09/23/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 15:43:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 15:43:01]]></wp:post_date_gmt>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 07:53:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:53:46]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Courses</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/courses/</link>
+		<pubDate>Wed, 23 Sep 2020 07:53:46 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/2020/09/23/courses/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 07:53:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:53:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[courses]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -197,27 +204,27 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.mantrabrain.com/pragyan-pro/]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Courses</title>
-		<link>https://demo.mantrabrain.com/pragyan/courses/</link>
-		<pubDate>Fri, 11 Sep 2020 15:43:01 +0000</pubDate>
+		<title>Events</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/events/</link>
+		<pubDate>Wed, 23 Sep 2020 07:53:46 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=7</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/2020/09/23/events/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 15:43:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 15:43:01]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2020-09-23 07:53:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:53:46]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[courses]]></wp:post_name>
+		<wp:post_name><![CDATA[events]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -256,23 +263,23 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Events</title>
-		<link>https://demo.mantrabrain.com/pragyan/events/</link>
-		<pubDate>Fri, 11 Sep 2020 15:43:01 +0000</pubDate>
+		<title>Blog</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/blog/</link>
+		<pubDate>Wed, 23 Sep 2020 07:53:46 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=8</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/2020/09/23/blog/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 15:43:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 15:43:01]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2020-09-23 07:53:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:53:46]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[events]]></wp:post_name>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -311,23 +318,23 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Blog</title>
-		<link>https://demo.mantrabrain.com/pragyan/blog/</link>
-		<pubDate>Fri, 11 Sep 2020 15:43:01 +0000</pubDate>
+		<title>FAQ</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/faq/</link>
+		<pubDate>Wed, 23 Sep 2020 07:53:46 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=9</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/2020/09/23/faq/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 15:43:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 15:43:01]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2020-09-23 07:53:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:53:46]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:post_name><![CDATA[faq]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>7</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -366,23 +373,23 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>FAQ</title>
-		<link>https://demo.mantrabrain.com/pragyan/faq/</link>
-		<pubDate>Fri, 11 Sep 2020 15:43:01 +0000</pubDate>
+		<title>About Us</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/about-us/</link>
+		<pubDate>Wed, 23 Sep 2020 07:53:46 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=10</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/2020/09/23/about-us/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 15:43:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 15:43:01]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2020-09-23 07:53:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:53:46]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[faq]]></wp:post_name>
+		<wp:post_name><![CDATA[about-us]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>8</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -421,23 +428,23 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>About Us</title>
-		<link>https://demo.mantrabrain.com/pragyan/about-us/</link>
-		<pubDate>Fri, 11 Sep 2020 15:43:01 +0000</pubDate>
+		<title>Contact Us</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/contact-us/</link>
+		<pubDate>Wed, 23 Sep 2020 07:53:46 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=11</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/2020/09/23/contact-us/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 15:43:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 15:43:01]]></wp:post_date_gmt>
+		<wp:post_date><![CDATA[2020-09-23 07:53:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:53:46]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-us]]></wp:post_name>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
+		<wp:menu_order>9</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -476,75 +483,361 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Contact Us</title>
-		<link>https://demo.mantrabrain.com/pragyan/contact-us/</link>
-		<pubDate>Fri, 11 Sep 2020 15:43:01 +0000</pubDate>
+		<title>school</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/online-courses/school/</link>
+		<pubDate>Fri, 11 Sep 2020 15:44:07 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=12</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/school.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 15:43:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 15:43:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-11 15:44:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-11 15:44:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_name><![CDATA[school]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>15</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/school.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/school.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1618;s:6:"height";i:1080;s:4:"file";s:18:"2020/09/school.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:18:"school-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"school-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"school-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:18:"school-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:20:"school-1536x1025.jpg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";}s:22:"pragyan-featured-image";a:4:{s:4:"file";s:19:"school-1450x480.jpg";s:5:"width";i:1450;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:18:"pragyan-blog-image";a:4:{s:4:"file";s:19:"school-1140x710.jpg";s:5:"width";i:1140;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:18:"school-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:18:"school-360x210.jpg";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>PHP</title>
-		<link>https://demo.mantrabrain.com/pragyan/php/</link>
-		<pubDate>Fri, 11 Sep 2020 15:43:01 +0000</pubDate>
+		<title>startup-849805_1280[1]</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/digital-affiliate-marketing/startup-849805_12801/</link>
+		<pubDate>Tue, 22 Sep 2020 16:21:42 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=13</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/startup-849805_12801.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 15:43:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 15:43:01]]></wp:post_date_gmt>
+		<wp:post_id>44</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:21:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:21:42]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[startup-849805_12801]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>34</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/startup-849805_12801.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/startup-849805_12801.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:32:"2020/09/startup-849805_12801.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:32:"startup-849805_12801-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:33:"startup-849805_12801-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:32:"startup-849805_12801-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:32:"startup-849805_12801-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:22:"pragyan-featured-image";a:4:{s:4:"file";s:33:"startup-849805_12801-1280x480.jpg";s:5:"width";i:1280;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:18:"pragyan-blog-image";a:4:{s:4:"file";s:33:"startup-849805_12801-1140x710.jpg";s:5:"width";i:1140;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:32:"startup-849805_12801-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:32:"startup-849805_12801-360x210.jpg";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>php-tutsplus[1]</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/php-tutsplus1/</link>
+		<pubDate>Tue, 22 Sep 2020 16:30:48 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/php-tutsplus1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:30:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:30:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[php-tutsplus1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>45</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/php-tutsplus1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/php-tutsplus1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:400;s:6:"height";i:277;s:4:"file";s:25:"2020/09/php-tutsplus1.png";s:5:"sizes";a:4:{s:6:"medium";a:4:{s:4:"file";s:25:"php-tutsplus1-300x208.png";s:5:"width";i:300;s:6:"height";i:208;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:25:"php-tutsplus1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:25:"php-tutsplus1-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:25:"php-tutsplus1-360x210.png";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>tech-5090539_1280[1]</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/machine-learning-a-to-z/tech-5090539_12801/</link>
+		<pubDate>Wed, 23 Sep 2020 02:55:06 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/tech-5090539_12801.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>70</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 02:55:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 02:55:06]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[tech-5090539_12801]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>69</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/tech-5090539_12801.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/tech-5090539_12801.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:877;s:4:"file";s:30:"2020/09/tech-5090539_12801.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:30:"tech-5090539_12801-300x206.jpg";s:5:"width";i:300;s:6:"height";i:206;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:31:"tech-5090539_12801-1024x702.jpg";s:5:"width";i:1024;s:6:"height";i:702;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:30:"tech-5090539_12801-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:30:"tech-5090539_12801-768x526.jpg";s:5:"width";i:768;s:6:"height";i:526;s:9:"mime-type";s:10:"image/jpeg";}s:22:"pragyan-featured-image";a:4:{s:4:"file";s:31:"tech-5090539_12801-1280x480.jpg";s:5:"width";i:1280;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:18:"pragyan-blog-image";a:4:{s:4:"file";s:31:"tech-5090539_12801-1140x710.jpg";s:5:"width";i:1140;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:30:"tech-5090539_12801-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:30:"tech-5090539_12801-360x210.jpg";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>camera-581126_1280[1]</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/the-ultimate-photography-course/camera-581126_12801/</link>
+		<pubDate>Wed, 23 Sep 2020 02:55:52 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/camera-581126_12801.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>71</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 02:55:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 02:55:52]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[camera-581126_12801]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>68</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/camera-581126_12801.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/camera-581126_12801.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:31:"2020/09/camera-581126_12801.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:31:"camera-581126_12801-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"camera-581126_12801-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:31:"camera-581126_12801-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"camera-581126_12801-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:22:"pragyan-featured-image";a:4:{s:4:"file";s:32:"camera-581126_12801-1280x480.jpg";s:5:"width";i:1280;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:18:"pragyan-blog-image";a:4:{s:4:"file";s:32:"camera-581126_12801-1140x710.jpg";s:5:"width";i:1140;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:31:"camera-581126_12801-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:31:"camera-581126_12801-360x210.jpg";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>programming-1873854_1280[1]</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/learn-ethical-hacking-from-scratch/programming-1873854_12801/</link>
+		<pubDate>Wed, 23 Sep 2020 02:58:40 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/programming-1873854_12801.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>74</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 02:58:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 02:58:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[programming-1873854_12801]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>73</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/programming-1873854_12801.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/programming-1873854_12801.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:703;s:4:"file";s:37:"2020/09/programming-1873854_12801.png";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:37:"programming-1873854_12801-300x165.png";s:5:"width";i:300;s:6:"height";i:165;s:9:"mime-type";s:9:"image/png";}s:5:"large";a:4:{s:4:"file";s:38:"programming-1873854_12801-1024x562.png";s:5:"width";i:1024;s:6:"height";i:562;s:9:"mime-type";s:9:"image/png";}s:9:"thumbnail";a:4:{s:4:"file";s:37:"programming-1873854_12801-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";}s:12:"medium_large";a:4:{s:4:"file";s:37:"programming-1873854_12801-768x422.png";s:5:"width";i:768;s:6:"height";i:422;s:9:"mime-type";s:9:"image/png";}s:22:"pragyan-featured-image";a:4:{s:4:"file";s:38:"programming-1873854_12801-1280x480.png";s:5:"width";i:1280;s:6:"height";i:480;s:9:"mime-type";s:9:"image/png";}s:18:"pragyan-blog-image";a:4:{s:4:"file";s:38:"programming-1873854_12801-1140x703.png";s:5:"width";i:1140;s:6:"height";i:703;s:9:"mime-type";s:9:"image/png";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:37:"programming-1873854_12801-100x100.png";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/png";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:37:"programming-1873854_12801-360x210.png";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>stock-1863880_1280[1]</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/the-complete-financial-analyst-course/stock-1863880_12801/</link>
+		<pubDate>Wed, 23 Sep 2020 02:59:21 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/stock-1863880_12801.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>75</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 02:59:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 02:59:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[stock-1863880_12801]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>72</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/stock-1863880_12801.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/stock-1863880_12801.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:31:"2020/09/stock-1863880_12801.jpg";s:5:"sizes";a:8:{s:6:"medium";a:4:{s:4:"file";s:31:"stock-1863880_12801-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:32:"stock-1863880_12801-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:31:"stock-1863880_12801-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:31:"stock-1863880_12801-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:22:"pragyan-featured-image";a:4:{s:4:"file";s:32:"stock-1863880_12801-1280x480.jpg";s:5:"width";i:1280;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:18:"pragyan-blog-image";a:4:{s:4:"file";s:32:"stock-1863880_12801-1140x710.jpg";s:5:"width";i:1140;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:31:"stock-1863880_12801-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:31:"stock-1863880_12801-360x210.jpg";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>hero-ads[1]</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/hero-ads1/</link>
+		<pubDate>Wed, 23 Sep 2020 06:29:11 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/hero-ads1.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>77</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 06:29:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 06:29:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hero-ads1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/hero-ads1.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/hero-ads1.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:300;s:6:"height";i:250;s:4:"file";s:21:"2020/09/hero-ads1.jpg";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"hero-ads1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:21:"hero-ads1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:21:"hero-ads1-300x210.jpg";s:5:"width";i:300;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>mahindra-1200[1]</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/mahindra-12001/</link>
+		<pubDate>Wed, 23 Sep 2020 06:33:27 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/mahindra-12001.gif</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>78</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 06:33:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 06:33:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mahindra-12001]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/mahindra-12001.gif]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/mahindra-12001.gif]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1140;s:6:"height";i:100;s:4:"file";s:26:"2020/09/mahindra-12001.gif";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:25:"mahindra-12001-300x26.gif";s:5:"width";i:300;s:6:"height";i:26;s:9:"mime-type";s:9:"image/gif";}s:5:"large";a:4:{s:4:"file";s:26:"mahindra-12001-1024x90.gif";s:5:"width";i:1024;s:6:"height";i:90;s:9:"mime-type";s:9:"image/gif";}s:9:"thumbnail";a:4:{s:4:"file";s:26:"mahindra-12001-150x100.gif";s:5:"width";i:150;s:6:"height";i:100;s:9:"mime-type";s:9:"image/gif";}s:12:"medium_large";a:4:{s:4:"file";s:25:"mahindra-12001-768x67.gif";s:5:"width";i:768;s:6:"height";i:67;s:9:"mime-type";s:9:"image/gif";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:26:"mahindra-12001-100x100.gif";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:9:"image/gif";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:26:"mahindra-12001-360x100.gif";s:5:"width";i:360;s:6:"height";i:100;s:9:"mime-type";s:9:"image/gif";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>health-2</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/corona-virus-education/health-2/</link>
+		<pubDate>Wed, 23 Sep 2020 07:07:52 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/health-2.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 07:07:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:07:52]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[health-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>80</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/health-2.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/health-2.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1281;s:4:"file";s:20:"2020/09/health-2.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:20:"health-2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"health-2-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:20:"health-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"health-2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:22:"health-2-1536x1025.jpg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";}s:22:"pragyan-featured-image";a:4:{s:4:"file";s:21:"health-2-1450x480.jpg";s:5:"width";i:1450;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:18:"pragyan-blog-image";a:4:{s:4:"file";s:21:"health-2-1140x710.jpg";s:5:"width";i:1140;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:20:"health-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:20:"health-2-360x210.jpg";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>business-3</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/economic-crises/business-3/</link>
+		<pubDate>Wed, 23 Sep 2020 07:08:47 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/business-3.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>84</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 07:08:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:08:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[business-3]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>83</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/business-3.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/business-3.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:22:"2020/09/business-3.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:22:"business-3-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:23:"business-3-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:22:"business-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:22:"business-3-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:24:"business-3-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";}s:22:"pragyan-featured-image";a:4:{s:4:"file";s:23:"business-3-1450x480.jpg";s:5:"width";i:1450;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:18:"pragyan-blog-image";a:4:{s:4:"file";s:23:"business-3-1140x710.jpg";s:5:"width";i:1140;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:22:"business-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:22:"business-3-360x210.jpg";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/87/</link>
+		<pubDate>Wed, 23 Sep 2020 07:53:52 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/2020/09/23/87/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 07:53:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:53:52]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[php]]></wp:post_name>
+		<wp:post_name><![CDATA[87]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
@@ -554,19 +847,19 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_value><![CDATA[sik_courses]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
@@ -582,73 +875,132 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Asp.Net</title>
-		<link>https://demo.mantrabrain.com/pragyan/asp-net/</link>
-		<pubDate>Fri, 11 Sep 2020 15:43:01 +0000</pubDate>
+		<title>portrait-3204955_1280[1]</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/free-webinar/portrait-3204955_12801/</link>
+		<pubDate>Wed, 23 Sep 2020 08:32:32 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=14</guid>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/portrait-3204955_12801.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 15:43:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 15:43:01]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>107</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 08:32:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 08:32:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[asp-net]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_name><![CDATA[portrait-3204955_12801]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>86</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan-pro/wp-content/uploads/sites/19/2020/09/portrait-3204955_12801.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/09/portrait-3204955_12801.jpg]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:724;s:4:"file";s:34:"2020/09/portrait-3204955_12801.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:34:"portrait-3204955_12801-300x170.jpg";s:5:"width";i:300;s:6:"height";i:170;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:35:"portrait-3204955_12801-1024x579.jpg";s:5:"width";i:1024;s:6:"height";i:579;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:34:"portrait-3204955_12801-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:34:"portrait-3204955_12801-768x434.jpg";s:5:"width";i:768;s:6:"height";i:434;s:9:"mime-type";s:10:"image/jpeg";}s:22:"pragyan-featured-image";a:4:{s:4:"file";s:35:"portrait-3204955_12801-1280x480.jpg";s:5:"width";i:1280;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:18:"pragyan-blog-image";a:4:{s:4:"file";s:35:"portrait-3204955_12801-1140x710.jpg";s:5:"width";i:1140;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:34:"portrait-3204955_12801-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:34:"portrait-3204955_12801-360x210.jpg";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}s:24:"sikshya_course_thumbnail";a:4:{s:4:"file";s:34:"portrait-3204955_12801-500x340.jpg";s:5:"width";i:500;s:6:"height";i:340;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Online Courses</title>
-		<link>https://demo.mantrabrain.com/pragyan/online-courses/</link>
+		<title>Hello world!</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/18/hello-world/</link>
+		<pubDate>Fri, 18 Sep 2020 06:10:56 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[Welcome to <a href="http://demo.mantrabrain.com/">MantraBrain Demo</a>. This is your first post. Edit or delete it, then start blogging!]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-18 06:10:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-18 06:10:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-09-18 06:10:56]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-09-18 06:10:56]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title>Sample Page</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/sample-page/</link>
+		<pubDate>Fri, 18 Sep 2020 06:10:56 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="https://demo.mantrabrain.com/pragyan-pro/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-18 06:10:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-18 06:10:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Learn from home</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/online-courses/</link>
 		<pubDate>Fri, 11 Sep 2020 15:44:13 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
 		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?page_id=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
 <!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
@@ -665,11 +1017,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[16]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pragyan_base_sidebar_layout]]></wp:meta_key>
@@ -683,41 +1031,18 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:meta_key><![CDATA[pragyan_bottom_header_background_color]]></wp:meta_key>
 		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title>school</title>
-		<link>https://demo.mantrabrain.com/pragyan/online-courses/school/</link>
-		<pubDate>Fri, 11 Sep 2020 15:44:07 +0000</pubDate>
-		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
-		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/wp-content/uploads/sites/18/2020/09/school.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2020-09-11 15:44:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-09-11 15:44:07]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[school]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.mantrabrain.com/pragyan/wp-content/uploads/sites/18/2020/09/school.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2020/09/school.jpg]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1618;s:6:"height";i:1080;s:4:"file";s:18:"2020/09/school.jpg";s:5:"sizes";a:9:{s:6:"medium";a:4:{s:4:"file";s:18:"school-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:19:"school-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"school-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:18:"school-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";}s:9:"1536x1536";a:4:{s:4:"file";s:20:"school-1536x1025.jpg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";}s:22:"pragyan-featured-image";a:4:{s:4:"file";s:19:"school-1450x480.jpg";s:5:"width";i:1450;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";}s:18:"pragyan-blog-image";a:4:{s:4:"file";s:19:"school-1140x710.jpg";s:5:"width";i:1140;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";}s:24:"pragyan-thumbnail-avatar";a:4:{s:4:"file";s:18:"school-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:26:"pragyan_blog_image_360x210";a:4:{s:4:"file";s:18:"school-360x210.jpg";s:5:"width";i:360;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[pragyan_single_hide_page_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title>E-Learning</title>
-		<link>https://demo.mantrabrain.com/pragyan/e-learning/</link>
+		<link>https://demo.mantrabrain.com/pragyan-pro/e-learning/</link>
 		<pubDate>Fri, 11 Sep 2020 15:45:10 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
 		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?page_id=19</guid>
@@ -739,10 +1064,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[pragyan_base_sidebar_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -757,7 +1078,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Smart Library</title>
-		<link>https://demo.mantrabrain.com/pragyan/smart-library/</link>
+		<link>https://demo.mantrabrain.com/pragyan-pro/smart-library/</link>
 		<pubDate>Fri, 11 Sep 2020 15:45:28 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
 		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?page_id=21</guid>
@@ -779,10 +1100,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[pragyan_base_sidebar_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -797,7 +1114,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Expert Teacher</title>
-		<link>https://demo.mantrabrain.com/pragyan/expert-teacher/</link>
+		<link>https://demo.mantrabrain.com/pragyan-pro/expert-teacher/</link>
 		<pubDate>Fri, 11 Sep 2020 15:45:51 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
 		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?page_id=23</guid>
@@ -819,10 +1136,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[pragyan_base_sidebar_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -837,7 +1150,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>User Friendly</title>
-		<link>https://demo.mantrabrain.com/pragyan/user-friendly/</link>
+		<link>https://demo.mantrabrain.com/pragyan-pro/user-friendly/</link>
 		<pubDate>Fri, 11 Sep 2020 15:46:06 +0000</pubDate>
 		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
 		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?page_id=25</guid>
@@ -859,6 +1172,603 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_base_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_single_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_bottom_header_background_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Sikshya Registration</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/sikshya-registration/</link>
+		<pubDate>Tue, 22 Sep 2020 13:15:43 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/sikshya-registration/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[sikshya_registration]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 13:15:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 13:15:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sikshya-registration]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Sikshya Account</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/sikshya-account/</link>
+		<pubDate>Tue, 22 Sep 2020 13:15:43 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/sikshya-account/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[sikshya_account]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 13:15:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 13:15:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sikshya-account]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Sikshya Login</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/sikshya-login/</link>
+		<pubDate>Tue, 22 Sep 2020 13:15:43 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/sikshya-login/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[sikshya_login]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 13:15:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 13:15:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sikshya-login]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Sikshya Cart</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/sikshya-cart/</link>
+		<pubDate>Tue, 22 Sep 2020 13:15:43 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/sikshya-cart/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[sikshya_cart]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>32</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 13:15:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 13:15:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sikshya-cart]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Sikshya Checkout</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/sikshya-checkout/</link>
+		<pubDate>Tue, 22 Sep 2020 13:15:43 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/sikshya-checkout/</guid>
+		<description></description>
+		<content:encoded><![CDATA[[sikshya_checkout]]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 13:15:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 13:15:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sikshya-checkout]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title>Digital &amp; Affiliate Marketing</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/digital-affiliate-marketing/</link>
+		<pubDate>Tue, 22 Sep 2020 16:12:16 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?post_type=sik_courses&#038;p=34</guid>
+		<description></description>
+		<content:encoded><![CDATA[<div class="tutor-single-course-segment tutor-single-course-lead-info">
+<div class="tutor-course-summery">The course subtitle says it all...If you're interested in how I build targeted email lists around profitable niches, sell to them, and then continuously remarket more products back to them...then this course is for you!I've been on both sides of the fence so I know how it feels. I got started in Affiliate Marketing a little under a year ago and while I saw decent sales, I couldn't help but wonder what I could make if I found more email leads.</div>
+</div>
+<div class="tutor-single-course-segment tutor-course-content-wrap">
+<div class="course-content-title">
+<div class="tutor-single-course-segment tutor-course-content-wrap">
+<div class="tutor-course-content-content">
+
+This course will teach you everything you need to know about UX, including design, content, and coding. And you’ll learn from the ground up, so it doesn’t matter how much experience you have when you start.
+
+You’ll be exposed to principles and strategies, but, more importantly, you’ll learn how to actually apply these abstract concepts by coding three different websites for three very different audiences.
+
+<strong>Improve Your Website with UX Strategies</strong>
+<ul>
+ 	<li>Apply UX strategies to a site’s content &amp; design</li>
+ 	<li>Understand Information Architecture to enhance the content on your website</li>
+ 	<li>Know what dictates how your website should look</li>
+ 	<li>Design and code a B2B website, a B2C blog, and an ecommerce site</li>
+</ul>
+<strong>Understand UX and Learn How to Develop Winning Websites</strong>
+
+This course will help you stand out as a web designer, teaching you how to apply User Experience (UX) strategies that will make every site you build useful, usable, and valuable.
+
+Reinforce what you’re learning using the <strong>bonus 30-page downloadable UX Guidebook</strong>. Filled with exercises and activities, the UX Guidebook is a great tool to reference as you progress through the course, or while developing your own custom sites.
+
+You’ll also get <strong>hands-on experience</strong> <strong>designing and coding three different types of sites</strong>. This will give you the confidence to pursue similar projects if you’re already a website designer, if you want to get into web design, or if you want to enhance your current business site.
+
+<strong>Contents and Overview</strong>
+
+Even if you’re a complete beginner, this course will show you how to make a website <strong>functional, attractive</strong> and <strong>successful</strong>. It will walk you through all of the steps required to enhance the User Experience on any site, right down to the code, content, and design.
+
+You’ll begin by defining <strong>who your website users are</strong> and <strong>what they expect </strong>from the website. You’ll also learn how business goals — yours or your client’s — have to be uncovered and addressed for site success.
+
+You’ll learn <strong>what questions to ask both groups</strong>, and you’ll use the answers to inform your content and design decisions.
+
+Next, you’ll dig into<strong> Information Architecture (IA)</strong>, which looks at the content on your website, how you should categorize it, what you should call it, and more.
+
+This will lay the foundation on which you can further build out your website to make users flock to it, stay on it, and hopefully make purchases.
+
+Plus, you’ll tackle how to design your website depending upon who your visitors are, whether your website is B2B (business-to-business), B2C (business-to-consumer), or an ecommerce site for selling products online.
+
+Different audiences have different needs, so learning <strong>what your target user expects from your site</strong>means you’ll be able to design and build a site that meets those expectations and leads to greater conversions.
+
+In addition to knowing what you need to put into your website to make it stand out from the crowd, you’ll also learn how to identify and remove <strong>UX- and UI-related obstacles.</strong>
+
+The ability to see and solve these problems will ensure every website you build moving forward will be <strong>useful, usable</strong> and <strong>valuable</strong> to the people who use it.
+
+Most importantly, you’ll then learn how to actually <strong>build</strong> and <strong>code</strong> these types of sites using HTML, CSS, WordPress, and more.
+
+You’ll not only know how to <strong>effectively design B2B, B2C, and ecommerce sites</strong>, but you’ll also know exactly how to develop these sites, from start to finish.
+
+By the end of this course, you’ll have an <strong>in-depth understanding of UX and web design</strong>, as well as the tools to develop a variety of sites with the right code.
+
+You’ll know why UX is so important to both users and businesses, what <strong>content</strong> is needed on a site, what <strong>UI design</strong> is appropriate, and how to transform your vision into a <strong>fully functional website</strong> using the most effective tools available.
+
+</div>
+</div>
+<div class="tutor-single-course-segment tutor-course-benefits-wrap">
+<div class="course-benefits-title"></div>
+</div>
+</div>
+</div>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>34</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:12:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:12:16]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[digital-affiliate-marketing]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_courses]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[100]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hour]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[intermediate]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_instructor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_requirements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{i:0;s:15:"What is email ?";i:1;s:41:"Basic knowledge about Gmail & Mail Server";i:2;s:31:"Different type of mail clients.";i:3;s:35:"Outlook setup and social media idea";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_outcomes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{i:0;s:61:"How to build an email list from scratch in no more than a day";i:1;s:51:"How to find profitable Affiliate Marketing products";i:2;s:38:"How to use an email list to make money";i:3;s:40:"How to remarket back to profitable leads";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_video_source]]></wp:meta_key>
+		<wp:meta_value><![CDATA[youtube]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_youtube_video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://www.youtube.com/watch?v=Ec9nqdwIjQI]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_discounted_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_active_tab]]></wp:meta_key>
+		<wp:meta_value><![CDATA[media]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>PHP Tutorials for Beginners</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/</link>
+		<pubDate>Tue, 22 Sep 2020 16:39:50 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?post_type=sik_courses&#038;p=45</guid>
+		<description></description>
+		<content:encoded><![CDATA[PHP started out as a small open source project that evolved as more and more people found out how useful it was. Rasmus Lerdorf unleashed the first version of PHP way back in 1994.
+<ul class="list">
+ 	<li>PHP is a recursive acronym for "PHP: Hypertext Preprocessor".</li>
+ 	<li>PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites.</li>
+ 	<li>It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.</li>
+ 	<li>PHP is pleasingly zippy in its execution, especially when compiled as an Apache module on the Unix side. The MySQL server, once started, executes even very complex queries with huge result sets in record-setting time.</li>
+ 	<li>PHP supports a large number of major protocols such as POP3, IMAP, and LDAP. PHP4 added support for Java and distributed object architectures (COM and CORBA), making n-tier development a possibility for the first time.</li>
+ 	<li>PHP is forgiving: PHP language tries to be as forgiving as possible.</li>
+ 	<li>PHP Syntax is C-Like.</li>
+</ul>
+PHP started out as a small open source project that evolved as more and more people found out how useful it was. Rasmus Lerdorf unleashed the first version of PHP way back in 1994.
+<ul class="list">
+ 	<li>PHP is a recursive acronym for "PHP: Hypertext Preprocessor".</li>
+ 	<li>PHP is a server side scripting language that is embedded in HTML. It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites.</li>
+ 	<li>It is integrated with a number of popular databases, including MySQL, PostgreSQL, Oracle, Sybase, Informix, and Microsoft SQL Server.</li>
+ 	<li>PHP is pleasingly zippy in its execution, especially when compiled as an Apache module on the Unix side. The MySQL server, once started, executes even very complex queries with huge result sets in record-setting time.</li>
+ 	<li>PHP supports a large number of major protocols such as POP3, IMAP, and LDAP. PHP4 added support for Java and distributed object architectures (COM and CORBA), making n-tier development a possibility for the first time.</li>
+ 	<li>PHP is forgiving: PHP language tries to be as forgiving as possible.</li>
+ 	<li>PHP Syntax is C-Like.</li>
+</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>45</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:39:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:39:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[php-tutorials-for-beginners]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_courses]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[46]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hour]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[beginner]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_instructor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_requirements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{i:0;s:28:"Basic Idea about Programming";i:1;s:18:"HTML/CSS knowledge";i:2;s:25:"Proper idea about website";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_outcomes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{i:0;s:30:"You can build realtime project";i:1;s:31:"Proper knowledge on programming";i:2;s:25:"Freelancing job placement";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_video_source]]></wp:meta_key>
+		<wp:meta_value><![CDATA[youtube]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_youtube_video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_discounted_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_active_tab]]></wp:meta_key>
+		<wp:meta_value><![CDATA[media]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Machine Learning [A to Z]</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/machine-learning-a-to-z/</link>
+		<pubDate>Wed, 23 Sep 2020 02:54:10 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?post_type=sik_courses&#038;p=69</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>69</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 02:54:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 02:54:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[machine-learning-a-to-z]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_courses]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[minute]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[all]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_instructor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_requirements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_outcomes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_video_source]]></wp:meta_key>
+		<wp:meta_value><![CDATA[youtube]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_youtube_video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_discounted_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_active_tab]]></wp:meta_key>
+		<wp:meta_value><![CDATA[curriculum]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Corona Virus &amp; Education</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/corona-virus-education/</link>
+		<pubDate>Wed, 23 Sep 2020 07:07:57 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=80</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 07:07:57]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:07:57]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[corona-virus-education]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="covid"><![CDATA[Covid]]></category>
+		<category domain="post_tag" nicename="covid19"><![CDATA[covid19]]></category>
+		<category domain="post_tag" nicename="pandemic"><![CDATA[pandemic]]></category>
+		<category domain="post_tag" nicename="world"><![CDATA[world]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[81]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_base_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_single_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_bottom_header_background_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Economic crises</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/economic-crises/</link>
+		<pubDate>Wed, 23 Sep 2020 07:08:55 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=83</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br><br>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>83</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 07:08:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:08:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[economic-crises]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="covid19"><![CDATA[covid19]]></category>
+		<category domain="post_tag" nicename="economy"><![CDATA[economy]]></category>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="category" nicename="trend"><![CDATA[Trend]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[84]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_base_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_single_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_bottom_header_background_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Simple Lorem Ipsum</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/04/hello-world-2/</link>
+		<pubDate>Fri, 04 Sep 2020 15:28:18 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<br>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>85</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-04 15:28:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-04 15:28:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="news"><![CDATA[News]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[44]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_base_sidebar_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_single_sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_bottom_header_background_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>2</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2020-09-04 15:28:18]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2020-09-04 15:28:18]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com" rel="nofollow ugc">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title>Free Webinar &amp; Seminar</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/free-webinar/</link>
+		<pubDate>Fri, 04 Sep 2020 15:28:18 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>86</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-04 15:28:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-04 15:28:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[free-webinar]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[107]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -873,6 +1783,993 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pragyan_bottom_header_background_color]]></wp:meta_key>
 		<wp:meta_value><![CDATA[#ffffff]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[pragyan_single_hide_page_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/2020/09/23/88/</link>
+		<pubDate>Wed, 23 Sep 2020 07:53:52 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan-pro/2020/09/23/88/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>88</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 07:53:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 07:53:52]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[88]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sik_courses]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Writing Email Checklist</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/digital-affiliate-marketing/lessons/writing-email-checklist/</link>
+		<pubDate>Tue, 22 Sep 2020 16:15:44 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/writing-email-checklist/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>41</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:15:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:15:44]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[writing-email-checklist]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[40]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Web email hunting</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/digital-affiliate-marketing/lessons/web-email-hunting/</link>
+		<pubDate>Tue, 22 Sep 2020 16:16:02 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/web-email-hunting/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:16:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:16:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[web-email-hunting]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Welcome</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/digital-affiliate-marketing/lessons/welcome/</link>
+		<pubDate>Tue, 22 Sep 2020 16:16:14 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/welcome/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>43</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:16:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:16:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[welcome]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[38]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>MVC Pattern &amp; Idea</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/mvc-pattern-idea/</link>
+		<pubDate>Tue, 22 Sep 2020 16:36:55 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/mvc-pattern-idea/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>52</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:36:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:36:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mvc-pattern-idea]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>MVC Workflow on real time project</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/mvc-workflow-on-real-time-project/</link>
+		<pubDate>Tue, 22 Sep 2020 16:37:10 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/mvc-workflow-on-real-time-project/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:37:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:37:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mvc-workflow-on-real-time-project]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Classes &amp; Objects Introduction</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/classes-objects-introduction/</link>
+		<pubDate>Tue, 22 Sep 2020 16:37:34 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/classes-objects-introduction/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>54</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:37:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:37:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[classes-objects-introduction]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Abstract Class in PHP</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/abstract-class-in-php/</link>
+		<pubDate>Tue, 22 Sep 2020 16:37:46 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/abstract-class-in-php/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:37:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:37:46]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[abstract-class-in-php]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Design Pattern</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/design-pattern/</link>
+		<pubDate>Tue, 22 Sep 2020 16:38:08 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/design-pattern/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:38:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:38:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[design-pattern]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>PHP Functions</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/php-functions/</link>
+		<pubDate>Tue, 22 Sep 2020 16:38:19 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/php-functions/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>57</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:38:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:38:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[php-functions]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Functional PHP</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/functional-php/</link>
+		<pubDate>Tue, 22 Sep 2020 16:38:27 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/functional-php/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:38:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:38:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[functional-php]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Logic Development</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/logic-development/</link>
+		<pubDate>Tue, 22 Sep 2020 16:38:36 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/logic-development/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>59</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:38:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:38:36]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logic-development]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Variables &amp; Constants</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/variables-constants/</link>
+		<pubDate>Tue, 22 Sep 2020 16:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/variables-constants/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>60</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:39:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:39:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[variables-constants]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>If conditions</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/if-conditions/</link>
+		<pubDate>Tue, 22 Sep 2020 16:39:07 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/if-conditions/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>61</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:39:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:39:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[if-conditions]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Loop &amp; it&#039;s types</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/loop-its-types/</link>
+		<pubDate>Tue, 22 Sep 2020 16:39:17 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/loop-its-types/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>62</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:39:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:39:17]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[loop-its-types]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>General Introduction of PHP</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/general-introduction-of-php/</link>
+		<pubDate>Tue, 22 Sep 2020 16:39:27 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/general-introduction-of-php/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>63</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:39:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:39:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[general-introduction-of-php]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>PHP Versions</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/php-versions/</link>
+		<pubDate>Tue, 22 Sep 2020 16:39:37 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/php-versions/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>64</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:39:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:39:37]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[php-versions]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Opensource &amp; PHP</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/php-tutorials-for-beginners/lessons/opensource-php/</link>
+		<pubDate>Tue, 22 Sep 2020 16:39:45 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/courses/sample-course/lessons/opensource-php/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>65</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:39:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:39:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[opensource-php]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_lessons]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[section_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[47]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_order_number]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>The Ultimate Photography Course</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/the-ultimate-photography-course/</link>
+		<pubDate>Wed, 23 Sep 2020 02:54:19 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?post_type=sik_courses&#038;p=68</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>68</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 02:54:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 02:54:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-ultimate-photography-course]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_courses]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[minute]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[all]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_instructor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_requirements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_outcomes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_video_source]]></wp:meta_key>
+		<wp:meta_value><![CDATA[youtube]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_youtube_video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_discounted_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_active_tab]]></wp:meta_key>
+		<wp:meta_value><![CDATA[curriculum]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[71]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>The Complete Financial Analyst Course</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/the-complete-financial-analyst-course/</link>
+		<pubDate>Wed, 23 Sep 2020 02:57:31 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?post_type=sik_courses&#038;p=72</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>72</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 02:57:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 02:57:31]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-complete-financial-analyst-course]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_courses]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[minute]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[all]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_instructor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_requirements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_outcomes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_video_source]]></wp:meta_key>
+		<wp:meta_value><![CDATA[youtube]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_youtube_video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_discounted_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_active_tab]]></wp:meta_key>
+		<wp:meta_value><![CDATA[curriculum]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[75]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Learn Ethical Hacking From Scratch</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/courses/learn-ethical-hacking-from-scratch/</link>
+		<pubDate>Wed, 23 Sep 2020 02:58:05 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?post_type=sik_courses&#038;p=73</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>73</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-23 02:58:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-23 02:58:05]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[learn-ethical-hacking-from-scratch]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_courses]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_duration_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[minute]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_level]]></wp:meta_key>
+		<wp:meta_value><![CDATA[all]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_instructor]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_requirements]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_outcomes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_video_source]]></wp:meta_key>
+		<wp:meta_value><![CDATA[youtube]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_youtube_video_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_discounted_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[sikshya_course_active_tab]]></wp:meta_key>
+		<wp:meta_value><![CDATA[curriculum]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[74]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>General Introduction &amp; Overview</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/?sik_sections=general-introduction-overview</link>
+		<pubDate>Tue, 22 Sep 2020 16:14:55 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=general-introduction-overview</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:14:55]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:14:55]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[general-introduction-overview]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Building Unlimited Email Lists</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/?sik_sections=building-unlimited-email-lists</link>
+		<pubDate>Tue, 22 Sep 2020 16:15:11 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=building-unlimited-email-lists</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:15:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:15:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[building-unlimited-email-lists]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Professional Email Templates &amp; Strategy</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/?sik_sections=professional-email-templates-strategy</link>
+		<pubDate>Tue, 22 Sep 2020 16:15:26 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=professional-email-templates-strategy</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>40</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:15:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:15:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[professional-email-templates-strategy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Introduction &amp; Overview</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/?sik_sections=introduction-overview</link>
+		<pubDate>Tue, 22 Sep 2020 16:31:01 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=introduction-overview</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:31:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:31:01]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[introduction-overview]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>PHP Basics</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/?sik_sections=php-basics</link>
+		<pubDate>Tue, 22 Sep 2020 16:32:07 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=php-basics</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:32:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:07]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[php-basics]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Procedural PHP</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/?sik_sections=procedural-php</link>
+		<pubDate>Tue, 22 Sep 2020 16:32:25 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=procedural-php</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>49</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:32:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:25]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[procedural-php]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Object Oriented Programming in PHP</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/?sik_sections=object-oriented-programming-in-php</link>
+		<pubDate>Tue, 22 Sep 2020 16:32:34 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=object-oriented-programming-in-php</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>50</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:32:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:34]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[object-oriented-programming-in-php]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>MVC ( Model, View, Controller) in PHP</title>
+		<link>https://demo.mantrabrain.com/pragyan-pro/?sik_sections=mvc-model-view-controller-in-php</link>
+		<pubDate>Tue, 22 Sep 2020 16:32:48 +0000</pubDate>
+		<dc:creator><![CDATA[mantrabrain_demo]]></dc:creator>
+		<guid isPermaLink="false">https://demo.mantrabrain.com/pragyan/?sik_sections=mvc-model-view-controller-in-php</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2020-09-22 16:32:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-09-22 16:32:48]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[mvc-model-view-controller-in-php]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[sik_sections]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[course_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
