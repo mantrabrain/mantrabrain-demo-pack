@@ -162,8 +162,7 @@
       },
       "core_options": {
         "blogname": "MagazineNP",
-        "page_on_front":"Gutentor Home"
-
+        "page_on_front": "Gutentor Home"
       },
       "widgets_data_update": {
       },
@@ -200,7 +199,7 @@
       },
       "core_options": {
         "blogname": "Gutenberg 1",
-        "page_on_front":"Home"
+        "page_on_front": "Home"
       },
       "widgets_data_update": {
       },
@@ -237,7 +236,7 @@
       },
       "core_options": {
         "blogname": "Gutenberg 2",
-        "page_on_front":"Home"
+        "page_on_front": "Home"
       },
       "widgets_data_update": {
       },
@@ -245,6 +244,36 @@
         "nav_menu_locations": {
           "primary": "Main Menu",
           "top-bar-nav": "Top Menu"
+        }
+      }
+    },
+    "magazinenp-plus": {
+      "title": "Magazine Plus",
+      "preview": "https://demo.mantrabrain.com/magazineplus",
+      "description": "Magazineplus theme demo.",
+      "template": [
+        "magazinenp"
+      ],
+      "category": [
+        "all",
+        "magazine",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default",
+        "elementor",
+        "gutentor"
+      ],
+      "core_options": {
+        "blogname": "Magazine Plus",
+        "page_on_front": ""
+      },
+      "widgets_data_update": {
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "top-bar-nav": "Top Bar Menu"
         }
       }
     }
