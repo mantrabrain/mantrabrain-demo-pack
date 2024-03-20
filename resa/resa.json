@@ -5,7 +5,7 @@
   "homepage": "https://wpyatra.com/best-wordpress-travel-theme/",
   "categories": {
     "all": "All",
-    "education": "Travel",
+    "travel": "Travel",
     "blog": "Blog",
     "others": "Others"
   },
@@ -18,7 +18,7 @@
     "resa-free": {
       "title": "Resa",
       "preview": "https://demo.wpyatra.com/",
-      "description": "Perfect demo for your education site.",
+      "description": "Perfect demo for your travel site.",
       "template": [
         "resa",
         "resa-pro"
