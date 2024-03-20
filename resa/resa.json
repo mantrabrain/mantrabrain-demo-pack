@@ -35,7 +35,8 @@
         "gutentor"
       ],
       "core_options": {
-        "blogname": "Resa & Yatra"
+        "blogname": "Resa & Yatra",
+        "page_on_front": "Home"
       },
       "widgets_data_update": {
       },
