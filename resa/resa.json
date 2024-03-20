@@ -1,0 +1,48 @@
+{
+  "name": "Resa",
+  "slug": "resa",
+  "version": "1.0.0",
+  "homepage": "https://wpyatra.com/best-wordpress-travel-theme/",
+  "categories": {
+    "all": "All",
+    "travel": "Travel",
+    "blog": "Blog",
+    "others": "Others"
+  },
+  "pagebuilders": {
+    "default": "Default",
+    "elementor": "Elementor",
+    "gutentor": "Gutentor"
+  },
+  "demos": {
+    "pragyan-free": {
+      "title": "Resa",
+      "preview": "https://demo.wpyatra.com/",
+      "description": "Perfect demo for your travel site.",
+      "template": [
+        "resa",
+      ],
+      "category": [
+        "all",
+        "travel",
+        "blog"
+      ],
+      "pagebuilder": [
+        "default",
+        "elementor",
+        "gutentor"
+      ],
+      "core_options": {
+        "blogname": "Resa"
+      },
+      "widgets_data_update": {
+      },
+      "customizer_data_update": {
+        "nav_menu_locations": {
+          "primary": "Main Menu",
+          "footer_menu": "Footer Menu"
+        }
+      }
+    },
+  }
+}
