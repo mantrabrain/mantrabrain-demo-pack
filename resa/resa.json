@@ -1,11 +1,11 @@
 {
   "name": "Resa",
   "slug": "resa",
-  "version": "1.0.0",
+  "version": "0.0.6",
   "homepage": "https://wpyatra.com/best-wordpress-travel-theme/",
   "categories": {
     "all": "All",
-    "travel": "Travel",
+    "education": "Travel",
     "blog": "Blog",
     "others": "Others"
   },
@@ -15,12 +15,13 @@
     "gutentor": "Gutentor"
   },
   "demos": {
-    "pragyan-free": {
+    "resa-free": {
       "title": "Resa",
       "preview": "https://demo.wpyatra.com/",
-      "description": "Perfect demo for your travel site.",
+      "description": "Perfect demo for your education site.",
       "template": [
         "resa",
+        "resa-pro"
       ],
       "category": [
         "all",
@@ -43,6 +44,6 @@
           "footer_menu": "Footer Menu"
         }
       }
-    },
+    }
   }
 }
