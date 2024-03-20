@@ -35,14 +35,14 @@
         "gutentor"
       ],
       "core_options": {
-        "blogname": "Resa"
+        "blogname": "Resa & Yatra"
       },
       "widgets_data_update": {
       },
       "customizer_data_update": {
         "nav_menu_locations": {
           "primary": "Main Menu",
-          "footer_menu": "Footer Menu"
+          "mobile": "Mobile Menu"
         }
       }
     }
