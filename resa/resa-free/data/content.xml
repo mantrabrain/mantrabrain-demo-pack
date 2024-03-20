@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-03-20 13:43" -->
+	<!-- generator="WordPress/6.4.3" created="2024-03-20 14:35" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Yatra &#38; Resa Demo</title>
 	<link>https://demo.wpyatra.com</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Wed, 20 Mar 2024 13:43:47 +0000</pubDate>
+	<pubDate>Wed, 20 Mar 2024 14:35:50 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.wpyatra.com/</wp:base_site_url>
@@ -5610,8 +5610,8 @@ It is generally believed that when hundreds of sheep were disappeared from the p
 		<wp:post_id>236</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-03 07:59:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-03 07:59:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-11-03 07:59:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-11-03 07:59:40]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-20 14:35:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-20 14:35:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pathibhara-tour]]></wp:post_name>
@@ -5822,6 +5822,58 @@ The benefits of trekking don’t just apply to your physical, mental or social h
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[blocksy_post_meta_options]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:1:{s:17:"styles_descriptor";a:3:{s:6:"styles";a:3:{s:7:"desktop";s:0:"";s:6:"tablet";s:0:"";s:6:"mobile";s:0:"";}s:12:"google_fonts";a:0:{}s:7:"version";i:5;}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_yatra_availability_conditions_ids_order]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[yatra_tour_meta_tour_external_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[yatra_tour_meta_tour_external_button_text]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[downloads_visibility]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[downloads_label]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Downloads]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[downloads_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[downloads_downloadable_files]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_sw4zdeenfplabaovh6_visibility]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_sw4zdeenfplabaovh6_label]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Tab Labelasdfasdfasdf]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[text_sw4zdeenfplabaovh6_content]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[yatra_tour_meta_tour_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[regular]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[yatra_tour_meta_disable_booking]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
